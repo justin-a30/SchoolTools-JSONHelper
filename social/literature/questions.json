@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "v001",
+      "question": "Tác phẩm 'Làng' của Kim Lân phản ánh chủ đề gì?",
+      "options": [
+        "Tình cảm gia đình trong chiến tranh",
+        "Tình yêu đôi lứa thời chiến",
+        "Tình yêu làng quê và lòng yêu nước",
+        "Cuộc sống của người lính nơi chiến trường"
+      ],
+      "correct": 2,
+      "explanation": "Tác phẩm 'Làng' thể hiện tình yêu làng quê sâu sắc gắn liền với lòng yêu nước của người nông dân trong kháng chiến."
+    },
+    {
+      "id": "v002",
+      "question": "Nhân vật chính trong truyện ngắn 'Chiếc lược ngà' là ai?",
+      "options": [
+        "Ông Sáu",
+        "Bé Thu",
+        "Người mẹ",
+        "Người bà"
+      ],
+      "correct": 0,
+      "explanation": "Ông Sáu là nhân vật chính, thể hiện tình cảm cha con sâu nặng trong hoàn cảnh chiến tranh."
+    },
+    {
+      "id": "v003",
+      "question": "Tác giả của bài thơ 'Đồng chí' là ai?",
+      "options": [
+        "Chế Lan Viên",
+        "Chính Hữu",
+        "Tố Hữu",
+        "Nguyễn Đình Thi"
+      ],
+      "correct": 1,
+      "explanation": "Bài thơ 'Đồng chí' được sáng tác bởi Chính Hữu, thể hiện tình đồng đội trong kháng chiến."
+    },
+    {
+      "id": "v004",
+      "question": "Bài thơ 'Bếp lửa' của Bằng Việt chủ yếu nói về điều gì?",
+      "options": [
+        "Tình yêu quê hương",
+        "Kỷ niệm tuổi thơ và tình bà cháu",
+        "Cuộc sống chiến đấu của người lính",
+        "Cảnh đẹp thiên nhiên"
+      ],
+      "correct": 1,
+      "explanation": "Bài thơ 'Bếp lửa' gợi nhớ kỷ niệm tuổi thơ và tình cảm sâu nặng giữa cháu và bà."
+    },
+    {
+      "id": "v005",
+      "question": "Tác phẩm 'Lặng lẽ Sa Pa' của Nguyễn Thành Long kể về ai?",
+      "options": [
+        "Một bác sĩ ở vùng cao",
+        "Một kỹ sư lâm nghiệp",
+        "Một người lính",
+        "Một cán bộ khí tượng"
+      ],
+      "correct": 3,
+      "explanation": "Tác phẩm kể về một cán bộ khí tượng sống và làm việc lặng lẽ tại Sa Pa."
+    },
+    {
+      "id": "v006",
+      "question": "Bài thơ 'Ánh trăng' của Nguyễn Duy thể hiện điều gì?",
+      "options": [
+        "Tình yêu đôi lứa",
+        "Nỗi nhớ quê hương",
+        "Lòng biết ơn và sự thức tỉnh",
+        "Khát vọng tự do"
+      ],
+      "correct": 2,
+      "explanation": "Bài thơ 'Ánh trăng' thể hiện lòng biết ơn và sự thức tỉnh về những kỷ niệm quá khứ."
+    },
+    {
+      "id": "v007",
+      "question": "Tác phẩm 'Những ngôi sao xa xôi' của Lê Minh Khuê kể về ai?",
+      "options": [
+        "Ba nữ thanh niên xung phong",
+        "Ba người lính",
+        "Ba học sinh",
+        "Ba nhà văn"
+      ],
+      "correct": 0,
+      "explanation": "Tác phẩm kể về ba nữ thanh niên xung phong làm nhiệm vụ trên tuyến đường Trường Sơn."
+    },
+    {
+      "id": "v008",
+      "question": "Bài thơ 'Đoàn thuyền đánh cá' của Huy Cận miêu tả điều gì?",
+      "options": [
+        "Cảnh biển đêm",
+        "Cuộc sống lao động của ngư dân",
+        "Tình yêu biển cả",
+        "Cuộc sống nơi đảo xa"
+      ],
+      "correct": 1,
+      "explanation": "Bài thơ miêu tả cuộc sống lao động hăng say của ngư dân trên biển."
+    },
+    {
+      "id": "v009",
+      "question": "Tác phẩm 'Chuyện người con gái Nam Xương' thuộc thể loại nào?",
+      "options": [
+        "Truyện ngắn hiện đại",
+        "Truyện ngụ ngôn",
+        "Truyện truyền kỳ",
+        "Truyện cười"
+      ],
+      "correct": 2,
+      "explanation": "Đây là một truyện truyền kỳ trong 'Truyền kỳ mạn lục' của Nguyễn Dữ."
+    },
+    {
+      "id": "v010",
+      "question": "Nhân vật Kiều trong 'Truyện Kiều' của Nguyễn Du là biểu tượng của điều gì?",
+      "options": [
+        "Sự phản kháng",
+        "Tình yêu tự do",
+        "Số phận người phụ nữ",
+        "Lòng trung thành"
+      ],
+      "correct": 2,
+      "explanation": "Nhân vật Kiều là biểu tượng cho số phận đau khổ và tài năng của người phụ nữ trong xã hội phong kiến."
+    }
+  ],
+  "subject": "literature",
+  "topic": "modern_vietnamese_literature",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

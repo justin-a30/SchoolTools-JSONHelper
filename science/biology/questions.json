@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "b001",
+      "question": "Ai là người được coi là cha đẻ của di truyền học?",
+      "options": [
+        "Darwin",
+        "Mendel",
+        "Watson",
+        "Lamarck"
+      ],
+      "correct": 1,
+      "explanation": "Gregor Mendel là người đầu tiên nghiên cứu và phát hiện ra các quy luật di truyền."
+    },
+    {
+      "id": "b002",
+      "question": "Trong phép lai một cặp tính trạng, tỉ lệ phân li kiểu hình ở F2 theo Menđen là:",
+      "options": [
+        "1:1",
+        "3:1",
+        "9:3:3:1",
+        "1:2:1"
+      ],
+      "correct": 1,
+      "explanation": "Theo định luật phân li của Menđen, tỉ lệ kiểu hình ở F2 là 3 trội : 1 lặn."
+    },
+    {
+      "id": "b003",
+      "question": "Gen là:",
+      "options": [
+        "Một đoạn ARN mang thông tin di truyền",
+        "Một đoạn ADN mang thông tin di truyền",
+        "Một phân tử protein",
+        "Một đoạn nhiễm sắc thể không mang thông tin di truyền"
+      ],
+      "correct": 1,
+      "explanation": "Gen là một đoạn ADN mang thông tin quy định cấu trúc của một chuỗi polypeptit hay phân tử ARN."
+    },
+    {
+      "id": "b004",
+      "question": "Trong tế bào sinh dưỡng của người, số lượng nhiễm sắc thể là:",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "22"
+      ],
+      "correct": 1,
+      "explanation": "Tế bào sinh dưỡng của người chứa 46 nhiễm sắc thể, gồm 23 cặp."
+    },
+    {
+      "id": "b005",
+      "question": "Đột biến gen là:",
+      "options": [
+        "Sự thay đổi cấu trúc nhiễm sắc thể",
+        "Sự thay đổi số lượng nhiễm sắc thể",
+        "Sự thay đổi trong cấu trúc của gen",
+        "Sự thay đổi vị trí của nhiễm sắc thể"
+      ],
+      "correct": 2,
+      "explanation": "Đột biến gen là những biến đổi trong cấu trúc của gen, có thể do mất, thêm hoặc thay thế một hoặc vài cặp nucleotit."
+    },
+    {
+      "id": "b006",
+      "question": "ADN được cấu tạo từ các đơn phân gọi là:",
+      "options": [
+        "Axit amin",
+        "Nucleotit",
+        "Đường đơn",
+        "Bazơ nitơ"
+      ],
+      "correct": 1,
+      "explanation": "ADN được cấu tạo từ các đơn phân gọi là nucleotit."
+    },
+    {
+      "id": "b007",
+      "question": "Trong quá trình giảm phân, sự phân li độc lập của các cặp nhiễm sắc thể xảy ra ở kỳ:",
+      "options": [
+        "Kỳ đầu I",
+        "Kỳ giữa I",
+        "Kỳ sau I",
+        "Kỳ cuối I"
+      ],
+      "correct": 2,
+      "explanation": "Sự phân li độc lập của các cặp nhiễm sắc thể xảy ra ở kỳ sau I của giảm phân."
+    },
+    {
+      "id": "b008",
+      "question": "Tính trạng trội là tính trạng:",
+      "options": [
+        "Chỉ biểu hiện khi có hai alen giống nhau",
+        "Luôn biểu hiện ở thế hệ F1",
+        "Chỉ biểu hiện ở thế hệ F2",
+        "Không bao giờ biểu hiện"
+      ],
+      "correct": 1,
+      "explanation": "Tính trạng trội là tính trạng biểu hiện ngay cả khi chỉ có một alen trội trong cặp alen."
+    },
+    {
+      "id": "b009",
+      "question": "Trong phép lai hai cặp tính trạng, tỉ lệ phân li kiểu hình ở F2 theo Menđen là:",
+      "options": [
+        "3:1",
+        "9:3:3:1",
+        "1:2:1",
+        "1:1"
+      ],
+      "correct": 1,
+      "explanation": "Theo định luật phân li độc lập của Menđen, tỉ lệ kiểu hình ở F2 là 9:3:3:1."
+    },
+    {
+      "id": "b010",
+      "question": "Nhiễm sắc thể là cấu trúc có trong nhân tế bào, chứa:",
+      "options": [
+        "ARN",
+        "Protein",
+        "ADN",
+        "Lipid"
+      ],
+      "correct": 2,
+      "explanation": "Nhiễm sắc thể chứa ADN, mang thông tin di truyền của tế bào."
+    }
+  ],
+  "subject": "biology",
+  "topic": "genetics",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

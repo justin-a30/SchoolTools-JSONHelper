@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "h001",
+      "question": "Sự kiện nào đánh dấu sự ra đời của nước Việt Nam Dân chủ Cộng hòa?",
+      "options": [
+        "Cách mạng tháng Tám thành công",
+        "Quốc dân đại hội Tân Trào",
+        "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập",
+        "Hiệp định Giơnevơ được ký kết"
+      ],
+      "correct": 2,
+      "explanation": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+    },
+    {
+      "id": "h002",
+      "question": "Chiến dịch nào là thắng lợi lớn nhất của quân dân ta trong kháng chiến chống Pháp?",
+      "options": [
+        "Chiến dịch Biên giới Thu - Đông 1950",
+        "Chiến dịch Tây Bắc 1952",
+        "Chiến dịch Điện Biên Phủ 1954",
+        "Chiến dịch Việt Bắc Thu - Đông 1947"
+      ],
+      "correct": 2,
+      "explanation": "Chiến dịch Điện Biên Phủ năm 1954 là thắng lợi quyết định, buộc Pháp phải ký Hiệp định Giơnevơ."
+    },
+    {
+      "id": "h003",
+      "question": "Hiệp định Giơnevơ về chấm dứt chiến tranh ở Việt Nam được ký kết vào năm nào?",
+      "options": [
+        "1954",
+        "1956",
+        "1959",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "Hiệp định Giơnevơ được ký ngày 21/7/1954, chấm dứt chiến tranh ở Đông Dương."
+    },
+    {
+      "id": "h004",
+      "question": "Chiến lược 'Chiến tranh đặc biệt' của Mỹ ở miền Nam Việt Nam diễn ra trong giai đoạn nào?",
+      "options": [
+        "1954 - 1960",
+        "1961 - 1965",
+        "1965 - 1968",
+        "1969 - 1973"
+      ],
+      "correct": 1,
+      "explanation": "Chiến lược 'Chiến tranh đặc biệt' được Mỹ thực hiện ở miền Nam từ 1961 đến 1965."
+    },
+    {
+      "id": "h005",
+      "question": "Chiến dịch nào đã mở đầu cho cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968?",
+      "options": [
+        "Chiến dịch Đường 9 - Khe Sanh",
+        "Chiến dịch Tây Nguyên",
+        "Chiến dịch Trị - Thiên",
+        "Chiến dịch Huế - Đà Nẵng"
+      ],
+      "correct": 0,
+      "explanation": "Chiến dịch Đường 9 - Khe Sanh mở đầu cho cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968."
+    },
+    {
+      "id": "h006",
+      "question": "Chiến dịch nào đã giải phóng hoàn toàn miền Nam, thống nhất đất nước?",
+      "options": [
+        "Chiến dịch Tây Nguyên",
+        "Chiến dịch Huế - Đà Nẵng",
+        "Chiến dịch Hồ Chí Minh",
+        "Chiến dịch Đường 14 - Phước Long"
+      ],
+      "correct": 2,
+      "explanation": "Chiến dịch Hồ Chí Minh (tháng 4/1975) đã giải phóng Sài Gòn, kết thúc chiến tranh, thống nhất đất nước."
+    },
+    {
+      "id": "h007",
+      "question": "Phong trào 'Đồng khởi' bùng nổ mạnh mẽ vào năm nào?",
+      "options": [
+        "1959",
+        "1960",
+        "1961",
+        "1962"
+      ],
+      "correct": 1,
+      "explanation": "Phong trào 'Đồng khởi' bùng nổ mạnh mẽ ở miền Nam vào năm 1960, mở đầu cao trào cách mạng."
+    },
+    {
+      "id": "h008",
+      "question": "Tổ chức nào được thành lập để lãnh đạo cách mạng miền Nam Việt Nam?",
+      "options": [
+        "Mặt trận Việt Minh",
+        "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+        "Mặt trận Tổ quốc Việt Nam",
+        "Mặt trận Liên Việt"
+      ],
+      "correct": 1,
+      "explanation": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập năm 1960 để lãnh đạo cách mạng miền Nam."
+    },
+    {
+      "id": "h009",
+      "question": "Chiến lược 'Việt Nam hóa chiến tranh' của Mỹ bắt đầu từ năm nào?",
+      "options": [
+        "1965",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correct": 2,
+      "explanation": "Chiến lược 'Việt Nam hóa chiến tranh' được Mỹ thực hiện từ năm 1969 nhằm rút dần quân Mỹ khỏi Việt Nam."
+    },
+    {
+      "id": "h010",
+      "question": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết vào năm nào?",
+      "options": [
+        "1972",
+        "1973",
+        "1974",
+        "1975"
+      ],
+      "correct": 1,
+      "explanation": "Hiệp định Paris được ký ngày 27/1/1973, chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam."
+    }
+  ],
+  "subject": "history",
+  "topic": "vietnam_history_1945_1975",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

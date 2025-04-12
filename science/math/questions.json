@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "m001",
+      "question": "Phương trình bậc hai có dạng tổng quát là?",
+      "options": [
+        "ax + b = 0",
+        "ax² + bx + c = 0",
+        "ax³ + bx² + cx + d = 0",
+        "ax + by = c"
+      ],
+      "correct": 1,
+      "explanation": "Phương trình bậc hai là phương trình có số mũ cao nhất của ẩn là 2"
+    },
+    {
+      "id": "m002",
+      "question": "Định lý Vi-et áp dụng cho phương trình bậc hai ax² + bx + c = 0 (a ≠ 0) với x₁, x₂ là hai nghiệm. Công thức nào sau đây là đúng?",
+      "options": [
+        "x₁ + x₂ = b/a và x₁.x₂ = c/a",
+        "x₁ + x₂ = -b/a và x₁.x₂ = c/a",
+        "x₁ + x₂ = -b và x₁.x₂ = c",
+        "x₁ + x₂ = b và x₁.x₂ = c"
+      ],
+      "correct": 1,
+      "explanation": "Theo định lý Vi-et: x₁ + x₂ = -b/a và x₁.x₂ = c/a"
+    },
+    {
+      "id": "m003",
+      "question": "Giá trị của biệt thức Δ trong phương trình ax² + bx + c = 0 là?",
+      "options": [
+        "Δ = b² + 4ac",
+        "Δ = a² + bc",
+        "Δ = b² - 4ac",
+        "Δ = a² - 4bc"
+      ],
+      "correct": 2,
+      "explanation": "Δ = b² - 4ac là công thức tính biệt thức để xác định số nghiệm"
+    },
+    {
+      "id": "m004",
+      "question": "Nếu phương trình ax² + bx + c = 0 có Δ > 0, thì phương trình có:",
+      "options": [
+        "Không có nghiệm",
+        "Một nghiệm kép",
+        "Hai nghiệm phân biệt",
+        "Một nghiệm đơn"
+      ],
+      "correct": 2,
+      "explanation": "Δ > 0 thì phương trình có hai nghiệm phân biệt"
+    },
+    {
+      "id": "m005",
+      "question": "Phương trình x² - 5x + 6 = 0 có nghiệm là:",
+      "options": [
+        "x = 2 và x = 3",
+        "x = -2 và x = -3",
+        "x = 1 và x = 6",
+        "x = -1 và x = -6"
+      ],
+      "correct": 0,
+      "explanation": "x² - 5x + 6 = 0 ⇒ (x - 2)(x - 3) = 0 ⇒ x = 2 hoặc x = 3"
+    },
+    {
+      "id": "m006",
+      "question": "Nếu phương trình có một nghiệm kép thì điều kiện là:",
+      "options": [
+        "Δ > 0",
+        "Δ = 0",
+        "Δ < 0",
+        "a = 0"
+      ],
+      "correct": 1,
+      "explanation": "Δ = 0 ⇒ phương trình có nghiệm kép x₁ = x₂"
+    },
+    {
+      "id": "m007",
+      "question": "Cách giải nhanh phương trình x² - (x₁ + x₂)x + x₁x₂ = 0 là:",
+      "options": [
+        "Dùng máy tính",
+        "Dùng định lý Vi-et đảo",
+        "Dùng đồ thị hàm số",
+        "Dùng hệ phương trình"
+      ],
+      "correct": 1,
+      "explanation": "Dùng Vi-et đảo: nghiệm của phương trình là x₁, x₂"
+    },
+    {
+      "id": "m008",
+      "question": "Tổng các nghiệm của phương trình 2x² - 4x + 1 = 0 là:",
+      "options": [
+        "2",
+        "-2",
+        "4",
+        "1"
+      ],
+      "correct": 0,
+      "explanation": "Theo Vi-et: x₁ + x₂ = -(-4)/2 = 2"
+    },
+    {
+      "id": "m009",
+      "question": "Phương trình nào dưới đây có nghiệm là x = -1 và x = 3?",
+      "options": [
+        "x² - 2x - 3 = 0",
+        "x² + 2x - 3 = 0",
+        "x² - 2x + 3 = 0",
+        "x² + 2x + 3 = 0"
+      ],
+      "correct": 0,
+      "explanation": "(x + 1)(x - 3) = x² - 2x - 3 ⇒ đúng"
+    },
+    {
+      "id": "m010",
+      "question": "Nếu a = 1, b = -6, c = 9 thì phương trình ax² + bx + c = 0 có nghiệm là:",
+      "options": [
+        "x = 3",
+        "x = ±3",
+        "x = -3",
+        "x = 0"
+      ],
+      "correct": 0,
+      "explanation": "x² - 6x + 9 = (x - 3)² ⇒ nghiệm kép x = 3"
+    }
+  ],
+  "subject": "math",
+  "topic": "quadratic_equations",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

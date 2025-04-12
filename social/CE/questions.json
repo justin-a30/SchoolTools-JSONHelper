@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "c001",
+      "question": "Chí công vô tư là gì?",
+      "options": [
+        "Làm việc vì lợi ích cá nhân",
+        "Giải quyết công việc theo cảm tính",
+        "Không thiên vị, đặt lợi ích chung lên trên",
+        "Chỉ quan tâm đến người thân"
+      ],
+      "correct": 2,
+      "explanation": "Chí công vô tư là đức tính không thiên vị, luôn đặt lợi ích chung lên trên lợi ích cá nhân."
+    },
+    {
+      "id": "c002",
+      "question": "Biểu hiện của người có đức tính chí công vô tư là?",
+      "options": [
+        "Ưu tiên người thân trong công việc",
+        "Giải quyết công việc công bằng, không thiên vị",
+        "Chỉ giúp đỡ người quen",
+        "Làm việc theo cảm xúc cá nhân"
+      ],
+      "correct": 1,
+      "explanation": "Người có đức tính chí công vô tư luôn giải quyết công việc một cách công bằng, không thiên vị."
+    },
+    {
+      "id": "c003",
+      "question": "Tự chủ là gì?",
+      "options": [
+        "Làm theo ý kiến người khác",
+        "Không có chính kiến riêng",
+        "Tự mình điều chỉnh hành vi, suy nghĩ",
+        "Phụ thuộc vào người khác"
+      ],
+      "correct": 2,
+      "explanation": "Tự chủ là khả năng tự điều chỉnh hành vi, suy nghĩ mà không phụ thuộc vào người khác."
+    },
+    {
+      "id": "c004",
+      "question": "Biểu hiện của người sống tự chủ là?",
+      "options": [
+        "Dễ bị ảnh hưởng bởi người khác",
+        "Không có lập trường rõ ràng",
+        "Biết kiểm soát bản thân, có chính kiến",
+        "Thường xuyên thay đổi quyết định"
+      ],
+      "correct": 2,
+      "explanation": "Người sống tự chủ biết kiểm soát bản thân và có chính kiến rõ ràng."
+    },
+    {
+      "id": "c005",
+      "question": "Khoan dung là gì?",
+      "options": [
+        "Tha thứ và tôn trọng người khác",
+        "Không quan tâm đến lỗi lầm của người khác",
+        "Chỉ trích người khác",
+        "Tránh xa người mắc lỗi"
+      ],
+      "correct": 0,
+      "explanation": "Khoan dung là thái độ tha thứ và tôn trọng người khác, kể cả khi họ mắc lỗi."
+    },
+    {
+      "id": "c006",
+      "question": "Biểu hiện của người khoan dung là?",
+      "options": [
+        "Luôn chỉ trích người khác",
+        "Tha thứ và giúp đỡ người khác sửa sai",
+        "Tránh tiếp xúc với người mắc lỗi",
+        "Phớt lờ lỗi lầm của người khác"
+      ],
+      "correct": 1,
+      "explanation": "Người khoan dung sẵn sàng tha thứ và giúp đỡ người khác sửa sai."
+    },
+    {
+      "id": "c007",
+      "question": "Thế nào là sống có lý tưởng?",
+      "options": [
+        "Sống không mục tiêu",
+        "Sống theo cảm xúc",
+        "Sống có mục tiêu, lý tưởng rõ ràng",
+        "Sống buông thả"
+      ],
+      "correct": 2,
+      "explanation": "Sống có lý tưởng là sống có mục tiêu, định hướng rõ ràng trong cuộc sống."
+    },
+    {
+      "id": "c008",
+      "question": "Biểu hiện của người sống có lý tưởng là?",
+      "options": [
+        "Không có kế hoạch cho tương lai",
+        "Sống buông thả",
+        "Có mục tiêu rõ ràng và phấn đấu đạt được",
+        "Thường xuyên thay đổi mục tiêu"
+      ],
+      "correct": 2,
+      "explanation": "Người sống có lý tưởng luôn có mục tiêu rõ ràng và nỗ lực để đạt được."
+    },
+    {
+      "id": "c009",
+      "question": "Thế nào là tích cực tham gia các hoạt động cộng đồng?",
+      "options": [
+        "Chỉ tham gia khi được yêu cầu",
+        "Không quan tâm đến hoạt động cộng đồng",
+        "Chủ động tham gia và đóng góp cho cộng đồng",
+        "Tránh xa các hoạt động cộng đồng"
+      ],
+      "correct": 2,
+      "explanation": "Tích cực tham gia các hoạt động cộng đồng là chủ động tham gia và đóng góp cho sự phát triển của cộng đồng."
+    },
+    {
+      "id": "c010",
+      "question": "Biểu hiện của người tích cực tham gia hoạt động cộng đồng là?",
+      "options": [
+        "Thờ ơ với các vấn đề xã hội",
+        "Chỉ tham gia khi bị ép buộc",
+        "Chủ động tham gia và đề xuất ý tưởng",
+        "Tránh né trách nhiệm"
+      ],
+      "correct": 2,
+      "explanation": "Người tích cực tham gia hoạt động cộng đồng luôn chủ động tham gia và đề xuất ý tưởng để cải thiện cộng đồng."
+    }
+  ],
+  "subject": "civic_education",
+  "topic": "moral_values_and_civic_duties",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

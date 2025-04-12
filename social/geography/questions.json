@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "g001",
+      "question": "Dân tộc nào chiếm tỷ lệ dân số cao nhất ở Việt Nam?",
+      "options": [
+        "Tày",
+        "Thái",
+        "Kinh",
+        "Mường"
+      ],
+      "correct": 2,
+      "explanation": "Dân tộc Kinh chiếm khoảng 86% dân số cả nước."
+    },
+    {
+      "id": "g002",
+      "question": "Khu vực nào ở Việt Nam có mật độ dân số cao nhất?",
+      "options": [
+        "Tây Nguyên",
+        "Đồng bằng sông Hồng",
+        "Trung du và miền núi Bắc Bộ",
+        "Duyên hải Nam Trung Bộ"
+      ],
+      "correct": 1,
+      "explanation": "Đồng bằng sông Hồng có mật độ dân số cao nhất nước ta."
+    },
+    {
+      "id": "g003",
+      "question": "Loại hình quần cư nào phổ biến ở nông thôn Việt Nam?",
+      "options": [
+        "Quần cư tập trung",
+        "Quần cư phân tán",
+        "Quần cư tuyến",
+        "Quần cư hỗn hợp"
+      ],
+      "correct": 0,
+      "explanation": "Ở nông thôn, quần cư tập trung là phổ biến nhất."
+    },
+    {
+      "id": "g004",
+      "question": "Ngành kinh tế nào đóng vai trò chủ đạo trong nền kinh tế Việt Nam hiện nay?",
+      "options": [
+        "Nông nghiệp",
+        "Công nghiệp",
+        "Dịch vụ",
+        "Lâm nghiệp"
+      ],
+      "correct": 1,
+      "explanation": "Công nghiệp là ngành kinh tế chủ đạo trong thời kỳ công nghiệp hóa, hiện đại hóa."
+    },
+    {
+      "id": "g005",
+      "question": "Vùng kinh tế nào có GDP bình quân đầu người cao nhất Việt Nam?",
+      "options": [
+        "Đồng bằng sông Cửu Long",
+        "Đồng bằng sông Hồng",
+        "Đông Nam Bộ",
+        "Tây Nguyên"
+      ],
+      "correct": 2,
+      "explanation": "Đông Nam Bộ có GDP bình quân đầu người cao nhất cả nước."
+    },
+    {
+      "id": "g006",
+      "question": "Vùng nào ở Việt Nam có diện tích rừng tự nhiên lớn nhất?",
+      "options": [
+        "Đông Nam Bộ",
+        "Tây Nguyên",
+        "Đồng bằng sông Hồng",
+        "Duyên hải Nam Trung Bộ"
+      ],
+      "correct": 1,
+      "explanation": "Tây Nguyên có diện tích rừng tự nhiên lớn nhất nước ta."
+    },
+    {
+      "id": "g007",
+      "question": "Ngành nào sau đây không thuộc nhóm ngành dịch vụ?",
+      "options": [
+        "Vận tải",
+        "Du lịch",
+        "Giáo dục",
+        "Khai thác khoáng sản"
+      ],
+      "correct": 3,
+      "explanation": "Khai thác khoáng sản thuộc ngành công nghiệp, không phải dịch vụ."
+    },
+    {
+      "id": "g008",
+      "question": "Vùng nào có sản lượng lúa cao nhất ở Việt Nam?",
+      "options": [
+        "Đồng bằng sông Hồng",
+        "Đồng bằng sông Cửu Long",
+        "Tây Nguyên",
+        "Bắc Trung Bộ"
+      ],
+      "correct": 1,
+      "explanation": "Đồng bằng sông Cửu Long là vựa lúa lớn nhất cả nước."
+    },
+    {
+      "id": "g009",
+      "question": "Ngành công nghiệp trọng điểm của vùng Đông Nam Bộ là gì?",
+      "options": [
+        "Công nghiệp chế biến nông sản",
+        "Công nghiệp khai thác than",
+        "Công nghiệp điện tử",
+        "Công nghiệp dệt may"
+      ],
+      "correct": 0,
+      "explanation": "Công nghiệp chế biến nông sản là ngành trọng điểm ở Đông Nam Bộ."
+    },
+    {
+      "id": "g010",
+      "question": "Vùng nào có tiềm năng phát triển thủy điện lớn nhất ở Việt Nam?",
+      "options": [
+        "Đồng bằng sông Hồng",
+        "Tây Nguyên",
+        "Đông Nam Bộ",
+        "Đồng bằng sông Cửu Long"
+      ],
+      "correct": 1,
+      "explanation": "Tây Nguyên có tiềm năng thủy điện lớn nhờ hệ thống sông ngòi và địa hình."
+    }
+  ],
+  "subject": "geography",
+  "topic": "vietnam_population_and_economy",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

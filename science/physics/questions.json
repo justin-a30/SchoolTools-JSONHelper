@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "p001",
+      "question": "Cường độ dòng điện là đại lượng đo bằng:",
+      "options": [
+        "Vôn kế",
+        "Ampe kế",
+        "Ôm kế",
+        "Nhiệt kế"
+      ],
+      "correct": 1,
+      "explanation": "Ampe kế dùng để đo cường độ dòng điện trong mạch."
+    },
+    {
+      "id": "p002",
+      "question": "Đơn vị đo điện trở là:",
+      "options": [
+        "Vôn (V)",
+        "Ampe (A)",
+        "Ôm (Ω)",
+        "Oát (W)"
+      ],
+      "correct": 2,
+      "explanation": "Điện trở được đo bằng đơn vị Ôm, ký hiệu là Ω."
+    },
+    {
+      "id": "p003",
+      "question": "Trong đoạn mạch nối tiếp, cường độ dòng điện:",
+      "options": [
+        "Giảm dần qua từng điện trở",
+        "Tăng dần qua từng điện trở",
+        "Bằng nhau tại mọi điểm",
+        "Bằng tổng các dòng điện qua từng điện trở"
+      ],
+      "correct": 2,
+      "explanation": "Trong mạch nối tiếp, cường độ dòng điện như nhau tại mọi điểm."
+    },
+    {
+      "id": "p004",
+      "question": "Hiệu điện thế giữa hai đầu đoạn mạch là 12V, dòng điện chạy qua là 2A. Điện trở của đoạn mạch là:",
+      "options": [
+        "6 Ω",
+        "24 Ω",
+        "0,167 Ω",
+        "10 Ω"
+      ],
+      "correct": 0,
+      "explanation": "R = U/I = 12V / 2A = 6 Ω."
+    },
+    {
+      "id": "p005",
+      "question": "Định luật Ôm cho đoạn mạch là:",
+      "options": [
+        "I = U + R",
+        "U = I × R",
+        "R = U × I",
+        "U = R / I"
+      ],
+      "correct": 1,
+      "explanation": "Định luật Ôm: U = I × R."
+    },
+    {
+      "id": "p006",
+      "question": "Trong đoạn mạch song song, hiệu điện thế giữa hai đầu các điện trở:",
+      "options": [
+        "Bằng nhau",
+        "Khác nhau",
+        "Tỷ lệ với điện trở",
+        "Bằng tổng các hiệu điện thế từng điện trở"
+      ],
+      "correct": 0,
+      "explanation": "Trong mạch song song, hiệu điện thế giữa hai đầu các điện trở là như nhau."
+    },
+    {
+      "id": "p007",
+      "question": "Công thức tính điện năng tiêu thụ là:",
+      "options": [
+        "A = U × I × t",
+        "A = U / I × t",
+        "A = I / U × t",
+        "A = U × I / t"
+      ],
+      "correct": 0,
+      "explanation": "Điện năng tiêu thụ: A = U × I × t."
+    },
+    {
+      "id": "p008",
+      "question": "Một bóng đèn có ghi 220V – 100W. Khi sử dụng đúng hiệu điện thế, cường độ dòng điện qua đèn là:",
+      "options": [
+        "0,45 A",
+        "2,2 A",
+        "0,22 A",
+        "1,1 A"
+      ],
+      "correct": 2,
+      "explanation": "I = P / U = 100W / 220V ≈ 0,45 A."
+    },
+    {
+      "id": "p009",
+      "question": "Biến trở là thiết bị dùng để:",
+      "options": [
+        "Tăng hiệu điện thế",
+        "Giảm cường độ dòng điện",
+        "Thay đổi điện trở trong mạch",
+        "Ngắt mạch điện"
+      ],
+      "correct": 2,
+      "explanation": "Biến trở dùng để thay đổi điện trở, từ đó điều chỉnh dòng điện trong mạch."
+    },
+    {
+      "id": "p010",
+      "question": "Khi điện trở của dây dẫn tăng thì cường độ dòng điện trong mạch:",
+      "options": [
+        "Tăng",
+        "Giảm",
+        "Không đổi",
+        "Bằng 0"
+      ],
+      "correct": 1,
+      "explanation": "Theo định luật Ôm, I = U / R. Khi R tăng, I giảm."
+    }
+  ],
+  "subject": "physics",
+  "topic": "electricity",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}

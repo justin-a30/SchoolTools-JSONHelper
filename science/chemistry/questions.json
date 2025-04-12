@@ -1,0 +1,128 @@
+{
+  "questions": [
+    {
+      "id": "c001",
+      "question": "Oxit nào sau đây là oxit bazơ?",
+      "options": [
+        "SO₂",
+        "CO₂",
+        "CaO",
+        "P₂O₅"
+      ],
+      "correct": 2,
+      "explanation": "CaO là oxit bazơ vì tác dụng với nước tạo thành bazơ Ca(OH)₂."
+    },
+    {
+      "id": "c002",
+      "question": "Chất nào sau đây là axit mạnh?",
+      "options": [
+        "HCl",
+        "CH₃COOH",
+        "H₂CO₃",
+        "H₂S"
+      ],
+      "correct": 0,
+      "explanation": "HCl là axit mạnh vì phân ly hoàn toàn trong dung dịch."
+    },
+    {
+      "id": "c003",
+      "question": "Dung dịch nào sau đây làm quỳ tím chuyển sang màu xanh?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "CH₃COOH",
+        "H₂SO₄"
+      ],
+      "correct": 1,
+      "explanation": "NaOH là bazơ mạnh, làm quỳ tím chuyển sang màu xanh."
+    },
+    {
+      "id": "c004",
+      "question": "Muối nào sau đây tan tốt trong nước?",
+      "options": [
+        "BaSO₄",
+        "AgCl",
+        "NaNO₃",
+        "PbSO₄"
+      ],
+      "correct": 2,
+      "explanation": "NaNO₃ là muối tan tốt trong nước."
+    },
+    {
+      "id": "c005",
+      "question": "Oxit nào sau đây là oxit axit?",
+      "options": [
+        "MgO",
+        "CO₂",
+        "Fe₂O₃",
+        "Na₂O"
+      ],
+      "correct": 1,
+      "explanation": "CO₂ là oxit axit vì tác dụng với nước tạo thành axit H₂CO₃."
+    },
+    {
+      "id": "c006",
+      "question": "Chất nào sau đây là bazơ mạnh?",
+      "options": [
+        "NH₃",
+        "NaOH",
+        "Fe(OH)₃",
+        "Cu(OH)₂"
+      ],
+      "correct": 1,
+      "explanation": "NaOH là bazơ mạnh vì phân ly hoàn toàn trong dung dịch."
+    },
+    {
+      "id": "c007",
+      "question": "Muối nào sau đây không tan trong nước?",
+      "options": [
+        "NaCl",
+        "KNO₃",
+        "BaSO₄",
+        "CaCl₂"
+      ],
+      "correct": 2,
+      "explanation": "BaSO₄ là muối không tan trong nước."
+    },
+    {
+      "id": "c008",
+      "question": "Oxit nào sau đây là oxit lưỡng tính?",
+      "options": [
+        "Al₂O₃",
+        "CO₂",
+        "Na₂O",
+        "SO₃"
+      ],
+      "correct": 0,
+      "explanation": "Al₂O₃ là oxit lưỡng tính vì có thể phản ứng với cả axit và bazơ."
+    },
+    {
+      "id": "c009",
+      "question": "Chất nào sau đây là muối trung hòa?",
+      "options": [
+        "NaHSO₄",
+        "Na₂CO₃",
+        "NaCl",
+        "NaHCO₃"
+      ],
+      "correct": 2,
+      "explanation": "NaCl là muối trung hòa vì được tạo từ axit mạnh và bazơ mạnh."
+    },
+    {
+      "id": "c010",
+      "question": "Phản ứng nào sau đây là phản ứng trung hòa?",
+      "options": [
+        "NaOH + HCl → NaCl + H₂O",
+        "CaCO₃ → CaO + CO₂",
+        "Fe + H₂SO₄ → FeSO₄ + H₂",
+        "2H₂ + O₂ → 2H₂O"
+      ],
+      "correct": 0,
+      "explanation": "Phản ứng giữa NaOH và HCl là phản ứng trung hòa tạo muối và nước."
+    }
+  ],
+  "subject": "chemistry",
+  "topic": "inorganic_compounds",
+  "difficulty": "medium",
+  "lastUpdated": "2025-04-12"
+}
